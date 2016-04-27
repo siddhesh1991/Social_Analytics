@@ -1,0 +1,802 @@
+"Source","Target","weight"
+"Congo, the Democratic Republic of the","Namibia",1.79991451256642
+"Congo, the Democratic Republic of the","South Africa",9.42647060031126
+"Congo, the Democratic Republic of the","Rwanda",13.4828360553526
+"Congo, the Democratic Republic of the","Chad",0.349754258952601
+"Congo, the Democratic Republic of the","Angola",19.9531672076534
+"Congo, the Democratic Republic of the","Burundi",22.61879782989
+"Congo, the Democratic Republic of the","Uganda",20.1979546882392
+"Congo, the Democratic Republic of the","Zambia",20.9156007631374
+"Congo, the Democratic Republic of the","Sudan",9.96141034263263
+"Congo, the Democratic Republic of the","Tanzania, United Republic of",23.5504785662656
+"Congo, the Democratic Republic of the","Mozambique",3.42899763190292
+"Congo, the Democratic Republic of the","Central African Republic",7.98062884905985
+"Congo, the Democratic Republic of the","Zimbabwe",6.30325028415316
+"Congo, the Democratic Republic of the","Kenya",5.65372539466669
+"Congo, the Democratic Republic of the","Cameroon",0.287018618950311
+"Congo, the Democratic Republic of the","Congo",11.6666594637116
+"Congo, the Democratic Republic of the","Germany",5.88316344993577
+"Congo, the Democratic Republic of the","United States",5.24551940293583
+"Congo, the Democratic Republic of the","South Sudan",2.40215196126611
+"Congo, the Democratic Republic of the","Malawi",3.42934577157442
+"Congo, the Democratic Republic of the","United Kingdom",6.73284567495821
+"Congo, the Democratic Republic of the","Netherlands",4.49785602505297
+"Congo, the Democratic Republic of the","Switzerland",3.54882943816483
+"Congo, the Democratic Republic of the","Canada",8.88835949978642
+"Congo, the Democratic Republic of the","France",10.3299753978145
+"Congo, the Democratic Republic of the","Belgium",2.88286535014897
+"Namibia","Angola",6.85573091334577
+"Namibia","Zambia",4.7337090882664
+"Namibia","Botswana",2.76433930461893
+"South Africa","Angola",5.31563539852033
+"South Africa","Zambia",4.82220155632932
+"South Africa","Tanzania, United Republic of",1.45923239805423
+"South Africa","Lesotho",5.22612229932174
+"South Africa","Swaziland",6.98972197758593
+"Afghanistan","Russian Federation",4.05109884534435
+"Afghanistan","Iran, Islamic Republic of",33.9618468318589
+"Afghanistan","Indonesia",0.601359349083725
+"Afghanistan","Turkey",3.35694032302232
+"Afghanistan","Syrian Arab Republic",3.20824173490702
+"Afghanistan","Hungary",3.7628675376902
+"Afghanistan","Bulgaria",3.79885721137375
+"Afghanistan","Tajikistan",7.41690501340585
+"Afghanistan","Uzbekistan",6.2614466619208
+"Afghanistan","India",18.2418482983279
+"Afghanistan","Pakistan",34.6581519519621
+"Afghanistan","Kazakhstan",3.71700109931686
+"Afghanistan","Kyrgyzstan",0.563679458006972
+"Afghanistan","Turkmenistan",3.32107597199041
+"Afghanistan","Ukraine",6.48104348434515
+"Afghanistan","Germany",8.56386090012754
+"Afghanistan","Belarus",0.322205002940429
+"Afghanistan","United States",11.8982880138795
+"Afghanistan","United Arab Emirates",2.04306376469145
+"Afghanistan","Italy",3.42170915653943
+"Afghanistan","Saudi Arabia",2.31604704928763
+"Afghanistan","Greece",0.3082755471601
+"Afghanistan","United Kingdom",10.4247716755736
+"Afghanistan","Denmark",7.94181359791018
+"Afghanistan","Sweden",7.91138359653394
+"Afghanistan","Austria",6.20288093351747
+"Afghanistan","Netherlands",11.9566175999524
+"Afghanistan","Switzerland",5.59051455736403
+"Afghanistan","Canada",10.0635777174109
+"Afghanistan","France",6.24428747219072
+"Afghanistan","Australia",8.91430417832652
+"Afghanistan","Belgium",1.20373150578838
+"Afghanistan","Norway",6.3652213696671
+"Afghanistan","Finland",2.11326518044141
+"Afghanistan","New Zealand",0.563636664914164
+"Rwanda","Congo, the Democratic Republic of the",23.1085548290432
+"Rwanda","South Africa",3.56281984954075
+"Rwanda","Burundi",14.9026582946471
+"Rwanda","Uganda",22.902608652231
+"Rwanda","Zambia",8.70380347726657
+"Rwanda","Tanzania, United Republic of",10.8267068044771
+"Rwanda","Central African Republic",0.30808606368728
+"Rwanda","Zimbabwe",1.97587512281381
+"Rwanda","Kenya",11.8422354182109
+"Rwanda","Cameroon",2.93972853508219
+"Rwanda","Congo",8.57514658118425
+"Rwanda","United States",2.29278261412337
+"Rwanda","Malawi",4.91445568513646
+"Rwanda","United Kingdom",3.30420219927908
+"Rwanda","Netherlands",1.35227422027648
+"Rwanda","Canada",5.16076745788154
+"Rwanda","France",4.92180804279928
+"Rwanda","Belgium",4.70509212111598
+"El Salvador","Nicaragua",7.50139599490548
+"El Salvador","Guatemala",7.84271932973981
+"El Salvador","Mexico",13.5543722905095
+"El Salvador","United States",7.61824499411021
+"El Salvador","Honduras",6.86594515483466
+"El Salvador","Belize",8.96316098544233
+"El Salvador","Costa Rica",9.63066202840276
+"El Salvador","Panama",0.711561564934584
+"El Salvador","Sweden",3.0624289232374
+"El Salvador","Canada",2.92846295768579
+"El Salvador","Australia",0.271167799981813
+"Chad","Sudan",19.6443574887188
+"Chad","Central African Republic",12.3312602521149
+"Chad","Niger",2.19693465786031
+"Chad","Cameroon",21.6037779108705
+"Chad","Nigeria",10.3899993839302
+"Chad","Congo",2.4320343995837
+"Chad","Gabon",1.14688463073829
+"Chad","Benin",1.5258896677917
+"Chad","France",1.36349353599913
+"Viet Nam","Philippines",7.20750439212349
+"Viet Nam","Indonesia",5.68059146455915
+"Viet Nam","China",29.9128981330361
+"Viet Nam","Germany",7.44439664297246
+"Viet Nam","Thailand",8.48362756264315
+"Viet Nam","United States",14.0466978668468
+"Viet Nam","Hong Kong",9.63759809700363
+"Viet Nam","Italy",3.85250514316992
+"Viet Nam","Japan",11.3699117816906
+"Viet Nam","Macao",0.681838843142337
+"Viet Nam","Malaysia",7.20573718245688
+"Viet Nam","United Kingdom",0.264998145531013
+"Viet Nam","Denmark",1.6113336322349
+"Viet Nam","Sweden",4.73144759817228
+"Viet Nam","Netherlands",2.88335457887787
+"Viet Nam","Switzerland",8.16182883302971
+"Viet Nam","Canada",2.33623363925694
+"Viet Nam","France",11.0351547814858
+"Viet Nam","Australia",2.19324518993261
+"Viet Nam","Belgium",0.81413167138558
+"Viet Nam","Norway",0.303545539506712
+"Equatorial Guinea","Cameroon",1.81600440011804
+"Equatorial Guinea","Gabon",0.616030524453369
+"Angola","Congo, the Democratic Republic of the",26.0282692061478
+"Angola","Namibia",8.61689542879139
+"Angola","South Africa",8.21029958616037
+"Angola","Zambia",23.8155528034412
+"Angola","Congo",8.44709249763694
+"Angola","Germany",4.43149759260558
+"Angola","United Kingdom",4.90988646049514
+"Angola","Netherlands",5.82210725084261
+"Angola","Brazil",6.89388547717206
+"Angola","Switzerland",5.27296254465449
+"Angola","Canada",1.05958779691967
+"Angola","France",7.28241991575184
+"Burundi","Congo, the Democratic Republic of the",21.1477651655687
+"Burundi","South Africa",5.08888941807588
+"Burundi","Rwanda",14.4552751032178
+"Burundi","Uganda",4.49312612547635
+"Burundi","Zambia",6.21407416804049
+"Burundi","Tanzania, United Republic of",28.6656031087768
+"Burundi","Zimbabwe",0.88425273450942
+"Burundi","Kenya",1.97664808171015
+"Burundi","United States",0.357434916150671
+"Burundi","Malawi",2.35830121866441
+"Burundi","United Kingdom",2.9426149265413
+"Burundi","Sweden",2.27597919571589
+"Burundi","Netherlands",4.31881313179152
+"Burundi","Canada",4.7258674863047
+"Burundi","Australia",0.310804876987473
+"Uganda","Congo, the Democratic Republic of the",17.3180181941249
+"Uganda","Rwanda",1.9956636440387
+"Uganda","Burundi",2.7614351710258
+"Uganda","Zambia",0.281839729003486
+"Uganda","Sudan",13.02140892613
+"Uganda","Tanzania, United Republic of",1.62161805454831
+"Uganda","Kenya",11.9132517191858
+"Uganda","United States",2.67498825565429
+"Uganda","United Kingdom",8.81101870104933
+"Zambia","Congo, the Democratic Republic of the",1.79858357423004
+"Ethiopia","South Africa",2.75132388938822
+"Ethiopia","Uganda",0.869423221906421
+"Ethiopia","Sudan",24.9047404720071
+"Ethiopia","Yemen",11.0711128556597
+"Ethiopia","Lebanon",0.616175771790921
+"Ethiopia","Syrian Arab Republic",0.26949152719315
+"Ethiopia","Somalia",12.7250964256699
+"Ethiopia","Djibouti",11.2983150843664
+"Ethiopia","Kenya",17.8262522981375
+"Ethiopia","Egypt",0.994673606760731
+"Ethiopia","Germany",5.83858549157164
+"Ethiopia","United States",15.1208584700857
+"Ethiopia","South Sudan",1.89589093277625
+"Ethiopia","United Arab Emirates",1.5641363674692
+"Ethiopia","Italy",4.28513415974684
+"Ethiopia","Kuwait",2.23532429646485
+"Ethiopia","Saudi Arabia",5.26629259649635
+"Ethiopia","United Kingdom",9.88787001777223
+"Ethiopia","Sweden",5.3781420248406
+"Ethiopia","Netherlands",3.66966481095407
+"Ethiopia","Canada",7.95952485001645
+"Ethiopia","Australia",2.57941721576317
+"Ethiopia","Norway",2.09887149519428
+"Haiti","Cuba",0.266203347765949
+"Haiti","United States",12.0831718962788
+"Haiti","Dominican Republic",5.82202696965091
+"Haiti","Canada",4.1526289287129
+"Haiti","France",7.4567737891454
+"Western Sahara","Cuba",1.240862368618
+"Western Sahara","Mauritania",5.13742991785227
+"Western Sahara","Algeria",27.699312821608
+"Sudan","Congo, the Democratic Republic of the",14.7918184057671
+"Sudan","Chad",13.0293793365757
+"Sudan","Uganda",19.9613604000264
+"Sudan","Ethiopia",24.8141773099086
+"Sudan","Central African Republic",13.8242152200712
+"Sudan","Kenya",15.2104430885279
+"Sudan","Egypt",9.74363681729023
+"Sudan","Germany",0.865312898903294
+"Sudan","Jordan",0.257656354422114
+"Sudan","United States",9.83944468004081
+"Sudan","South Sudan",3.2216899683044
+"Sudan","Italy",3.22289041506217
+"Sudan","United Kingdom",8.47843621057357
+"Sudan","Netherlands",6.54976013073401
+"Sudan","Canada",7.20739296709351
+"Sudan","France",2.37417296970552
+"Sudan","Australia",5.0380955068553
+"Sudan","Norway",0.561732257500085
+"Sudan","Israel",3.59336818760191
+"Iraq","Yemen",4.052905376126
+"Iraq","Iran, Islamic Republic of",28.4806981478743
+"Iraq","Lebanon",8.90116027307406
+"Iraq","Turkey",7.95050954897213
+"Iraq","Syrian Arab Republic",16.4311177579329
+"Iraq","Hungary",1.98902473351102
+"Iraq","Bulgaria",3.65966059891768
+"Iraq","Pakistan",2.61746901528246
+"Iraq","Egypt",4.00072794508826
+"Iraq","Germany",9.13127905021552
+"Iraq","Jordan",7.71956687790004
+"Iraq","United States",12.9258910480598
+"Iraq","Libyan Arab Jamahiriya",2.95756444036792
+"Iraq","Italy",4.52933924767282
+"Iraq","Kuwait",5.73435572195362
+"Iraq","Saudi Arabia",6.49708679271879
+"Iraq","Greece",3.35302465290346
+"Iraq","United Kingdom",13.0571902345612
+"Iraq","Denmark",11.4559692383005
+"Iraq","Sweden",15.6181762476511
+"Iraq","Austria",5.75177331749084
+"Iraq","Netherlands",13.4821166230576
+"Iraq","Switzerland",7.28858440130938
+"Iraq","Canada",9.00798851709431
+"Iraq","France",6.58193823239498
+"Iraq","Australia",9.54504543862979
+"Iraq","Belgium",1.4357418561846
+"Iraq","Norway",8.7564274569325
+"Iraq","Finland",5.6055810829157
+"Iraq","New Zealand",0.552312631338581
+"Russian Federation","Poland",5.85461635323463
+"Russian Federation","Azerbaijan",2.54642187677673
+"Russian Federation","Georgia",3.69986625513577
+"Russian Federation","Kazakhstan",6.95021896076892
+"Russian Federation","Germany",8.37345727681877
+"Russian Federation","United States",17.60730043986
+"Russian Federation","Italy",5.33199960244831
+"Russian Federation","United Kingdom",3.56470492992363
+"Russian Federation","Denmark",0.522038144614498
+"Russian Federation","Sweden",6.96932011904449
+"Russian Federation","Austria",6.24787735413725
+"Russian Federation","Netherlands",4.62142554299802
+"Russian Federation","Canada",7.22931057768729
+"Russian Federation","France",7.5635793622842
+"Russian Federation","Australia",1.46556211962229
+"Russian Federation","Belgium",4.93437630820968
+"Russian Federation","Norway",4.84248479534706
+"Cambodia","Viet Nam",17.2197205297647
+"Cambodia","Philippines",1.93897853723202
+"Cambodia","Lao People's Democratic Republic",1.96284710547767
+"Cambodia","Indonesia",1.35220180836763
+"Cambodia","Thailand",9.9359128072007
+"Cambodia","United States",3.270474802606
+"Cambodia","Malaysia",1.26365490972151
+"Cambodia","Switzerland",0.674069746509287
+"Cambodia","Canada",0.314636770003974
+"Cambodia","France",11.8105507396593
+"Cambodia","Australia",1.32278065845107
+"Philippines","Malaysia",11.0673094997856
+"Guinea-Bissau","Senegal",7.42577140776837
+"Guinea-Bissau","Guinea",0.694202591416967
+"Guinea-Bissau","Gambia",0.277046711561112
+"Albania","Serbia",1.89964773839611
+"Albania","Germany",3.41991345216561
+"Albania","United States",10.3727371806436
+"Albania","Italy",2.62996550524059
+"Albania","United Kingdom",3.5557291220484
+"Albania","Canada",4.27459057312332
+"Albania","France",3.17237526732657
+"Lao People's Democratic Republic","Philippines",0.984096972367737
+"Lao People's Democratic Republic","China",5.97111225587571
+"Lao People's Democratic Republic","Thailand",12.0421387938297
+"Lao People's Democratic Republic","United States",10.3519685890847
+"Lao People's Democratic Republic","Argentina",2.960730177068
+"Lao People's Democratic Republic","Canada",0.586805058295012
+"Lao People's Democratic Republic","France",10.6298728915862
+"Tanzania, United Republic of","United Arab Emirates",0.403380722353329
+"Tanzania, United Republic of","Bahrain",0.351410536233494
+"Cuba","Venezuela, Bolivarian Republic of",0.303348498297081
+"Cuba","United States",12.0788912728081
+"Cuba","Costa Rica",1.19951515688609
+"Cuba","Panama",1.88896766946959
+"Cuba","Canada",3.4846603097288
+"Nicaragua","Guatemala",4.49565596795242
+"Nicaragua","United States",5.95933267276094
+"Nicaragua","Honduras",5.27673239947179
+"Nicaragua","Costa Rica",12.6677770981824
+"Guatemala","Mexico",15.3743536782738
+"Guatemala","United States",8.45892297041598
+"Guatemala","Honduras",0.830826817636237
+"Guatemala","Belize",5.49456602980039
+"Guatemala","Canada",1.81608489284391
+"Eritrea","South Africa",0.364988610045679
+"Eritrea","Uganda",2.44323356864777
+"Eritrea","Ethiopia",9.0645339779557
+"Eritrea","Sudan",19.8435145298856
+"Eritrea","Iraq",1.40919864501743
+"Eritrea","Yemen",3.72013395062596
+"Eritrea","Kenya",1.73841611905164
+"Eritrea","Egypt",1.17921953822004
+"Eritrea","Germany",5.47718142411044
+"Eritrea","United States",5.1196676634449
+"Eritrea","Italy",5.25463448607614
+"Eritrea","United Kingdom",5.86125612761023
+"Eritrea","Sweden",3.85355864738694
+"Eritrea","Netherlands",2.16734081927364
+"Eritrea","Switzerland",3.83730034017083
+"Eritrea","Canada",2.15570144193409
+"Eritrea","France",1.2043856243934
+"Eritrea","Norway",3.27402709970451
+"Eritrea","Israel",4.28487886333105
+"Eritrea","Malta",1.57873921352571
+"Mozambique","South Africa",2.35734826407583
+"Mozambique","Zambia",6.16526265260714
+"Mozambique","Tanzania, United Republic of",7.80432519093995
+"Mozambique","Zimbabwe",9.90917926857491
+"Mozambique","Swaziland",5.69327586346453
+"Mozambique","Malawi",8.02125780371267
+"Central African Republic","Congo, the Democratic Republic of the",2.8141987206815
+"Central African Republic","Chad",9.18056092856375
+"Central African Republic","Sudan",2.65827139003936
+"Central African Republic","Cameroon",7.27673212730848
+"Central African Republic","Congo",1.82060531868049
+"Central African Republic","South Sudan",1.25600443418248
+"Central African Republic","France",0.256366022577577
+"Iran, Islamic Republic of","Iraq",16.0158750214861
+"Iran, Islamic Republic of","Turkey",9.13749638868304
+"Iran, Islamic Republic of","India",1.55056752835087
+"Iran, Islamic Republic of","Pakistan",2.51152239489855
+"Iran, Islamic Republic of","Germany",8.16474270802541
+"Iran, Islamic Republic of","United States",15.2369655485205
+"Iran, Islamic Republic of","Italy",4.87134936352977
+"Iran, Islamic Republic of","Greece",2.38944966883093
+"Iran, Islamic Republic of","United Kingdom",13.2986131625467
+"Iran, Islamic Republic of","Denmark",8.48215732373869
+"Iran, Islamic Republic of","Sweden",12.8404538543135
+"Iran, Islamic Republic of","Austria",5.76561491684037
+"Iran, Islamic Republic of","Netherlands",10.9878128675292
+"Iran, Islamic Republic of","Switzerland",4.05655647513968
+"Iran, Islamic Republic of","Canada",9.98136438644394
+"Iran, Islamic Republic of","France",7.17679227426283
+"Iran, Islamic Republic of","Australia",6.99289479923911
+"Iran, Islamic Republic of","Belgium",0.65073186616012
+"Iran, Islamic Republic of","Norway",5.80676374295931
+"Iran, Islamic Republic of","Finland",2.98976954938962
+"Indonesia","Papua New Guinea",16.9040535159203
+"Indonesia","United States",7.13890037201393
+"Indonesia","Malaysia",2.56328641652653
+"Indonesia","Australia",0.880044307523205
+"Lebanon","Syrian Arab Republic",2.53569151297757
+"Lebanon","Germany",6.28446166506026
+"Lebanon","United Kingdom",3.07973045146185
+"Lebanon","Denmark",2.54868313173955
+"Lebanon","Sweden",5.40005914571134
+"Lebanon","Canada",3.35325340477677
+"Lebanon","Israel",1.74361371699728
+"Palestinian","Iraq",15.7010320330095
+"Palestinian","Yemen",0.486410799351411
+"Palestinian","Syrian Arab Republic",1.88588786594209
+"Palestinian","Algeria",10.7353623501311
+"Palestinian","Kazakhstan",0.551514430526129
+"Palestinian","Egypt",9.55897606233607
+"Palestinian","Libyan Arab Jamahiriya",8.73325317862027
+"Palestinian","United Arab Emirates",0.616030524453369
+"Palestinian","Kuwait",5.29404268182305
+"Palestinian","Saudi Arabia",7.42377497653699
+"Palestinian","Denmark",7.21198694141162
+"Palestinian","Cyprus",1.93714733962855
+"Zimbabwe","South Africa",1.57511233954336
+"Zimbabwe","United States",2.84027589995168
+"Zimbabwe","Botswana",2.12986183317817
+"Zimbabwe","United Kingdom",6.89481514906495
+"Zimbabwe","Canada",4.53663964786062
+"Zimbabwe","Australia",0.258650907934064
+"Ghana","Togo",15.3808558078617
+"Ghana","Germany",4.11056483071759
+"Ghana","Italy",0.639703587498787
+"Ghana","United Kingdom",3.07067798543238
+"Turkey","Iraq",12.4220475930342
+"Turkey","Germany",9.91597476381663
+"Turkey","Italy",4.58195853628271
+"Turkey","Greece",3.83166960792048
+"Turkey","United Kingdom",12.0831888368683
+"Turkey","Sweden",4.81102131574729
+"Turkey","Austria",2.00495193223545
+"Turkey","Netherlands",4.92468564347677
+"Turkey","Switzerland",10.0715746460377
+"Turkey","Canada",5.70854027838334
+"Turkey","France",10.9944941706507
+"Turkey","Belgium",2.20497834028535
+"Syrian Arab Republic","Iraq",2.74597816213839
+"Syrian Arab Republic","Russian Federation",0.623919328405838
+"Syrian Arab Republic","Yemen",0.368275026238245
+"Syrian Arab Republic","Lebanon",2.68317858352177
+"Syrian Arab Republic","Turkey",2.73265166331825
+"Syrian Arab Republic","Romania",0.29068261905518
+"Syrian Arab Republic","Bulgaria",0.883738306565658
+"Syrian Arab Republic","Armenia",1.14115071661053
+"Syrian Arab Republic","Egypt",2.15487848483408
+"Syrian Arab Republic","Germany",7.38006593965801
+"Syrian Arab Republic","Jordan",2.66298901821297
+"Syrian Arab Republic","Spain",0.29686831306172
+"Syrian Arab Republic","United States",3.3299044776753
+"Syrian Arab Republic","Libyan Arab Jamahiriya",1.20720912757967
+"Syrian Arab Republic","Italy",0.275076409099781
+"Syrian Arab Republic","Greece",0.436027076768332
+"Syrian Arab Republic","United Kingdom",1.19600450900423
+"Syrian Arab Republic","Denmark",1.54843684134123
+"Syrian Arab Republic","Sweden",8.54615150738488
+"Syrian Arab Republic","Austria",1.11252659992999
+"Syrian Arab Republic","Netherlands",7.03279335216646
+"Syrian Arab Republic","Brazil",0.332841785672994
+"Syrian Arab Republic","Switzerland",1.38966957719163
+"Syrian Arab Republic","France",0.708789627741736
+"Syrian Arab Republic","Belgium",0.73687194078802
+"Syrian Arab Republic","Norway",0.678009853153999
+"Syrian Arab Republic","Malta",0.26241517271986
+"Syrian Arab Republic","Cyprus",0.3082755471601
+"Romania","Hungary",4.25520438141377
+"Romania","Serbia",0.273326403887025
+"Romania","Germany",2.5453803160616
+"Romania","United States",6.39169569977439
+"Romania","Sweden",4.08820992833522
+"Romania","Austria",1.17486653671877
+"Romania","Switzerland",0.26282655806612
+"Romania","Canada",1.85811413573757
+"Romania","France",1.39808957701685
+"Chile","Germany",0.263645310541044
+"Chile","Venezuela, Bolivarian Republic of",0.526451858559389
+"Chile","Argentina",0.329003648650606
+"Chile","Sweden",4.93600873496942
+"Chile","France",0.286340544113829
+"Somalia","South Africa",9.83671335996111
+"Somalia","Uganda",7.74338165263887
+"Somalia","Zambia",3.79721196591578
+"Somalia","Ethiopia",21.7350676064921
+"Somalia","Russian Federation",0.776104124111178
+"Somalia","Yemen",18.6310574941519
+"Somalia","Tanzania, United Republic of",8.35873542350454
+"Somalia","Eritrea",7.93407026440262
+"Somalia","Turkey",1.33304462255172
+"Somalia","Syrian Arab Republic",4.21078491443473
+"Somalia","Djibouti",15.8847262271436
+"Somalia","Kenya",19.9152995661457
+"Somalia","Egypt",10.3912097603918
+"Somalia","Germany",5.23898590741803
+"Somalia","United States",12.7328954978725
+"Somalia","Libyan Arab Jamahiriya",4.75957867655893
+"Somalia","Italy",6.75133787157862
+"Somalia","Kuwait",1.40564214493398
+"Somalia","Saudi Arabia",0.351410536233494
+"Somalia","United Kingdom",15.0328044886318
+"Somalia","Denmark",9.01013754094665
+"Somalia","Sweden",12.3714951437378
+"Somalia","Austria",1.66137768657912
+"Somalia","Netherlands",13.0882358034012
+"Somalia","Switzerland",7.4146679857147
+"Somalia","Canada",10.0808944276972
+"Somalia","France",1.53692843089882
+"Somalia","Australia",2.72017330683809
+"Somalia","Norway",8.66761923234161
+"Somalia","Finland",4.74592693194022
+"Somalia","Malta",2.95691103497015
+"Sri Lanka","India",18.4772578861629
+"Sri Lanka","Germany",6.95274543022054
+"Sri Lanka","United States",3.94623816179217
+"Sri Lanka","Italy",0.513019926625063
+"Sri Lanka","Malaysia",2.39451476478867
+"Sri Lanka","United Kingdom",13.7921022208922
+"Sri Lanka","Denmark",4.16348712418532
+"Sri Lanka","Netherlands",4.2717577857872
+"Sri Lanka","Switzerland",7.43744080725426
+"Sri Lanka","Canada",12.1161884824402
+"Sri Lanka","France",12.0618739717514
+"Sri Lanka","Australia",5.32000635490598
+"Sri Lanka","Norway",2.29506878657178
+"Czech Republic","Germany",2.12115507278447
+"Czech Republic","United States",2.47694676066911
+"Czech Republic","Sweden",0.52539486952321
+"Czech Republic","Switzerland",0.699449806330995
+"Czech Republic","Canada",0.315976224989709
+"Hungary","Germany",2.16598410729794
+"Hungary","United States",2.36152362898908
+"Hungary","Sweden",2.20069033208684
+"Hungary","Switzerland",0.637961064768285
+"Hungary","Canada",1.38508032055124
+"Hungary","Belgium",0.57828304309367
+"Poland","Germany",3.17941493628614
+"Poland","United States",3.79908615597565
+"Poland","Greece",0.615988356571269
+"Poland","Sweden",2.7384448168557
+"Poland","Switzerland",0.698086633955958
+"Poland","Canada",1.72041931082657
+"Poland","Belgium",0.903761790138
+"Senegal","Guinea-Bissau",12.6899810893045
+"Senegal","Mauritania",1.92630214689946
+"Senegal","Gambia",8.67807989080109
+"Senegal","Italy",0.310712138006554
+"Mauritania","Senegal",17.0037816494681
+"Mauritania","Mali",12.2915777312312
+"Mauritania","United States",6.05798983692696
+"Mauritania","France",7.86364453594673
+"Liberia","Guinea-Bissau",0.403547131696883
+"Liberia","Ghana",14.4313966734085
+"Liberia","Sierra Leone",14.0944084097788
+"Liberia","Nigeria",9.07479233031434
+"Liberia","Côte d'Ivoire",17.652457279588
+"Liberia","Guinea",17.6962570972228
+"Liberia","United States",10.5716201942571
+"Liberia","Italy",2.08779134734419
+"Liberia","Netherlands",1.85204664325032
+"Liberia","Canada",0.582789388518724
+"Liberia","Australia",0.960696510324402
+"Serbia","Albania",3.15201908933801
+"Serbia","Czech Republic",0.525667555459209
+"Serbia","Hungary",6.3925946170783
+"Serbia","Poland",0.380345364762601
+"Serbia","Bosnia and Herzegovina",4.39891230127211
+"Serbia","Croatia",2.00628103771324
+"Serbia","Macedonia, the former Yugoslav Republic of",4.32227861187702
+"Serbia","Slovenia",0.288475083749429
+"Serbia","Germany",9.64044010831374
+"Serbia","United States",8.80763172599111
+"Serbia","Montenegro",3.78698248245069
+"Serbia","Italy",7.95373762579346
+"Serbia","United Kingdom",9.95190006677551
+"Serbia","Denmark",6.85829088107901
+"Serbia","Sweden",13.5238950265469
+"Serbia","Austria",8.46221069386752
+"Serbia","Netherlands",7.92650671962754
+"Serbia","Switzerland",10.1369009544225
+"Serbia","Slovakia",0.306174707650861
+"Serbia","Canada",5.64600368009661
+"Serbia","France",10.6513181436177
+"Serbia","Australia",5.85360295701271
+"Serbia","Belgium",3.67597571583955
+"Serbia","Norway",6.24271236387484
+"Serbia","Finland",3.77207839763476
+"Serbia","Ireland",0.265401168134082
+"China","India",17.5235529243513
+"China","Germany",5.55216379525861
+"China","United States",13.7992919203482
+"China","United Kingdom",4.59497142013518
+"China","Netherlands",5.91633229321271
+"China","Switzerland",2.54216595677461
+"China","Canada",9.77174206940126
+"China","France",1.83794667014709
+"China","Australia",2.85501810889834
+"China","Belgium",0.262963387848749
+"Myanmar","Bangladesh",17.0595982356193
+"Myanmar","India",4.88118748291356
+"Myanmar","Thailand",16.975453397539
+"Myanmar","United States",7.70173894788637
+"Myanmar","Japan",1.93205947504694
+"Myanmar","Malaysia",12.2111648664271
+"Myanmar","Canada",0.306174707650861
+"Myanmar","Australia",1.66144378868746
+"Myanmar","Norway",0.284513878649181
+"Sierra Leone","Ghana",1.48640369603607
+"Sierra Leone","Liberia",11.0410344101482
+"Sierra Leone","Mali",2.69581668594812
+"Sierra Leone","Nigeria",3.61944440357338
+"Sierra Leone","Germany",1.28709250790153
+"Sierra Leone","Côte d'Ivoire",1.61944897383098
+"Sierra Leone","Guinea",12.876225456988
+"Sierra Leone","Gambia",7.2055785370072
+"Sierra Leone","United States",5.67919856666411
+"Sierra Leone","United Kingdom",4.65143196102773
+"Sierra Leone","Netherlands",4.59425084909955
+"Sierra Leone","Canada",1.50245354896772
+"Sierra Leone","Australia",1.00336695240711
+"Mali","Mauritania",7.05925133858739
+"Mali","Niger",5.44251548917411
+"Mali","Algeria",3.54774297360357
+"Mali","United States",0.544895679466843
+"Mali","Italy",1.25935087549465
+"Mali","Burkina Faso",3.65796098011764
+"Mali","France",2.69552273677508
+"Bhutan","Nepal",17.8091940771866
+"Bulgaria","Germany",0.665954466414383
+"Bulgaria","United States",2.53193119955646
+"Bulgaria","Sweden",2.39549006672401
+"Bulgaria","Canada",2.02633190664378
+"Tajikistan","Afghanistan",3.21900928182607
+"Tajikistan","Russian Federation",2.96741412883997
+"Tajikistan","Uzbekistan",4.03942178038856
+"Tajikistan","Kazakhstan",4.98445865616217
+"Tajikistan","Kyrgyzstan",6.93592474436731
+"Tajikistan","Turkmenistan",7.45641505205599
+"Azerbaijan","Russian Federation",2.51711738322238
+"Azerbaijan","Armenia",15.5213928623829
+"Azerbaijan","Germany",6.10695884863899
+"Azerbaijan","United States",3.83206322352617
+"Azerbaijan","Netherlands",4.2944333851382
+"Azerbaijan","France",3.45748785073008
+"Armenia","Russian Federation",1.02888570487071
+"Armenia","Azerbaijan",6.58766662401212
+"Armenia","Germany",5.19210356251082
+"Armenia","United States",7.9163505032746
+"Armenia","Netherlands",3.07498594569886
+"Armenia","France",3.815227516038
+"Niger","Algeria",3.34881779392646
+"Bangladesh","India",4.24122084179594
+"Bangladesh","Germany",0.307038559273971
+"Bangladesh","United States",4.502513297876
+"Bangladesh","Italy",0.561859452166441
+"Bangladesh","United Kingdom",3.52489051083973
+"Bangladesh","Canada",7.09256171489686
+"Bangladesh","France",3.55940354044733
+"Bosnia and Herzegovina","Turkey",2.61520401878842
+"Bosnia and Herzegovina","Serbia",16.7327127500424
+"Bosnia and Herzegovina","Croatia",9.25374505576302
+"Bosnia and Herzegovina","Macedonia, the former Yugoslav Republic of",2.64402550675996
+"Bosnia and Herzegovina","Slovenia",5.62446874825347
+"Bosnia and Herzegovina","Germany",13.8281736048016
+"Bosnia and Herzegovina","United States",9.48525136065323
+"Bosnia and Herzegovina","Montenegro",3.35618307649764
+"Bosnia and Herzegovina","Italy",1.5720294484373
+"Bosnia and Herzegovina","Denmark",9.23208022533351
+"Bosnia and Herzegovina","Sweden",11.3871494997618
+"Bosnia and Herzegovina","Austria",3.83379317094755
+"Bosnia and Herzegovina","Netherlands",8.40621485863365
+"Bosnia and Herzegovina","Switzerland",9.30374656479716
+"Bosnia and Herzegovina","Canada",5.93076860073882
+"Bosnia and Herzegovina","France",5.95136802314814
+"Bosnia and Herzegovina","Australia",3.91455460997233
+"Bosnia and Herzegovina","Norway",4.98822621246837
+"Croatia","Serbia",17.9496178084487
+"Croatia","Bosnia and Herzegovina",10.1773068566605
+"Croatia","Macedonia, the former Yugoslav Republic of",0.732164160196598
+"Croatia","Slovenia",0.326590923269402
+"Croatia","Germany",4.96698851949114
+"Croatia","United States",3.56757529045205
+"Croatia","Montenegro",1.77294538244182
+"Croatia","Italy",1.59907406732125
+"Croatia","Sweden",3.79027844090326
+"Croatia","Netherlands",1.16844321419064
+"Croatia","Canada",3.2175608257009
+"Croatia","Australia",3.92111112693181
+"Croatia","Norway",2.63701853034302
+"Georgia","Russian Federation",6.36732038127514
+"Georgia","Armenia",0.951641199603147
+"Georgia","Ukraine",1.40113858615447
+"Georgia","Germany",3.8707940966867
+"Georgia","United States",1.09968864383407
+"Georgia","France",3.55704548963774
+"Togo","Ghana",8.25868027404931
+"Togo","Germany",5.53674958378942
+"Togo","United States",5.19864259313579
+"Togo","Italy",2.46842107439733
+"Togo","Benin",8.93414979425324
+"Macedonia, the former Yugoslav Republic of","Serbia",3.10774838996365
+"Macedonia, the former Yugoslav Republic of","Germany",5.12416660875301
+"Macedonia, the former Yugoslav Republic of","Italy",1.67675932715659
+"Slovenia","Serbia",3.85691305125199
+"Slovenia","Germany",0.332455793518306
+"Uzbekistan","Russian Federation",2.8071807560395
+"Uzbekistan","Azerbaijan",3.33056740350738
+"Uzbekistan","Kyrgyzstan",1.28658816077981
+"Uzbekistan","Germany",4.04582629219194
+"Uzbekistan","United States",5.67169214369146
+"Uzbekistan","Sweden",2.72917512085084
+"India","Germany",4.30202709421423
+"India","United States",9.98511048832563
+"India","United Kingdom",1.08143309627587
+"India","Canada",8.83491306955563
+"Pakistan","South Africa",0.344917872353895
+"Pakistan","Afghanistan",2.94643912291069
+"Pakistan","Germany",6.35934149487732
+"Pakistan","United States",7.75650628259229
+"Pakistan","Italy",1.85661593401445
+"Pakistan","United Kingdom",6.46836526373911
+"Pakistan","Canada",10.4129954107935
+"Pakistan","Australia",1.39983162617519
+"Peru","United States",5.61256892463075
+"Peru","Sweden",2.61315408447161
+"Peru","Canada",4.85530471191665
+"Djibouti","Ethiopia",3.36960603509839
+"Kenya","Uganda",2.11814891124628
+"Kenya","Ethiopia",6.13940645957737
+"Kenya","United States",3.55370887514356
+"Kenya","United Kingdom",3.0469701315151
+"Kenya","Canada",0.258509307890249
+"Algeria","Germany",4.09506416234053
+"Algeria","United States",0.260198102771059
+"Algeria","United Kingdom",3.85215701221446
+"Algeria","Canada",4.27519028706247
+"Algeria","France",3.46801989177873
+"Cameroon","Nigeria",2.27450674810916
+"Cameroon","Germany",2.4535713970487
+"Cameroon","United States",7.05556884544283
+"Papua New Guinea","Solomon Islands",0.702821072466988
+"Kazakhstan","Russian Federation",2.49555143793168
+"Kazakhstan","Germany",4.14242577700152
+"Kazakhstan","United States",1.88018666483115
+"Kyrgyzstan","Russian Federation",2.13535195835033
+"Kyrgyzstan","Germany",3.25853678478148
+"Latvia","Russian Federation",0.644728835547352
+"Latvia","Germany",1.4601745341282
+"Moldova, Republic of","Russian Federation",1.28209774824804
+"Moldova, Republic of","Germany",4.88102349385118
+"Moldova, Republic of","United States",3.95689978913179
+"Turkmenistan","Russian Federation",1.11428533226147
+"Ukraine","Russian Federation",1.88038908150118
+"Ukraine","Germany",7.14964133762808
+"Ukraine","United States",8.19341777994095
+"Ukraine","Canada",3.22828809680573
+"Nigeria","South Africa",0.384560352095881
+"Nigeria","Chad",0.400427479771177
+"Nigeria","Niger",1.18031715020893
+"Nigeria","Cameroon",6.34920793191327
+"Nigeria","Germany",3.80315604487784
+"Nigeria","United States",2.979830474674
+"Nigeria","Italy",3.00802624214571
+"Nigeria","United Kingdom",4.81037745425787
+"Nigeria","Canada",4.8072433702895
+"Nigeria","France",0.269750884382097
+"Congo","Congo, the Democratic Republic of the",4.58019424097752
+"Congo","South Africa",3.99474829965679
+"Congo","United States",4.73291753457026
+"Congo","Gabon",6.5122312807637
+"Congo","Benin",1.68633445804239
+"Congo","France",4.96307679783359
+"Egypt","Germany",0.889462391686565
+"Egypt","United States",7.18668103301337
+"Egypt","Italy",0.275200472483257
+"Egypt","Canada",2.21084699529653
+"Egypt","Australia",0.573931761538039
+"Germany","Canada",0.559149208314438
+"Timor-Leste","Indonesia",2.98051311939018
+"Belarus","Germany",3.95494224174249
+"Belarus","United States",5.95506305874883
+"Colombia","Chile",0.264323550631387
+"Colombia","Venezuela, Bolivarian Republic of",6.59477201376164
+"Colombia","United States",8.76548597458299
+"Colombia","Costa Rica",7.50737207927571
+"Colombia","Panama",5.54514850919353
+"Colombia","United Kingdom",2.05237401226262
+"Colombia","Sweden",0.30126001811925
+"Colombia","Brazil",1.15973178920062
+"Colombia","Canada",8.00238950909779
+"Colombia","Ecuador",9.45866031570954
+"Mexico","United States",2.70401045643715
+"Mexico","Canada",5.63416499711248
+"Lithuania","Germany",1.12244777410787
+"Tunisia","Germany",1.1217059971872
+"Côte d'Ivoire","Ghana",1.60791575890648
+"Côte d'Ivoire","Liberia",7.89512875112633
+"Côte d'Ivoire","Mali",4.04465465178116
+"Côte d'Ivoire","Togo",1.70716085585712
+"Côte d'Ivoire","Guinea",5.96359886874668
+"Côte d'Ivoire","United States",2.79625978673741
+"Côte d'Ivoire","Italy",3.52434151100935
+"Côte d'Ivoire","France",3.34798415412143
+"Guinea","United States",4.37435526882007
+"Guinea","Italy",0.259497185673166
+"Guinea","Netherlands",1.29839773463787
+"Guinea","Canada",1.35990951589394
+"Guinea","France",3.54887274329806
+"Guinea","Belgium",1.41138754349501
+"Gambia","Germany",0.261588342170036
+"Gambia","United States",0.825534582780687
+"Gambia","Italy",0.346231880044291
+"Gambia","United Kingdom",0.269750884382097
+"Jordan","Germany",0.260337819483935
+"Morocco","Germany",2.88426764797992
+"Venezuela, Bolivarian Republic of","United States",4.62448054843596
+"Spain","Germany",0.376761769350053
+"Korea, Republic of","Germany",0.270654416732138
+"Thailand","Germany",1.07055125174101
+"Fiji","United States",1.42849797271132
+"Nepal","United States",3.77581221370246
+"Nepal","Canada",0.840830422880318
+"United States","Canada",3.15676284536358
+"Montenegro","Germany",1.91778174666054
+"Saint Vincent and the Grenadines","Canada",1.21238696323256
+"Libyan Arab Jamahiriya","Germany",0.368502152706611
+"Libyan Arab Jamahiriya","Tunisia",0.262689579155584
+"Honduras","United States",1.36022992853137
+"South Sudan","Congo, the Democratic Republic of the",0.336708463499983
+"South Sudan","Uganda",1.98804709152583
+"South Sudan","Ethiopia",2.3000772368537
+"South Sudan","Sudan",0.779016221183882
+"South Sudan","Kenya",1.97044852778559
